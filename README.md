@@ -30,3 +30,8 @@ This is a web application built with Next.js that serves as an intelligent assis
 4.  **Get Fertilizer Advice**: Go to the "Fertilizer Suggestion" page. The soil data from the previous step will be pre-filled. Select one of the newly recommended crops from the dropdown menu and click "Get Fertilizer Suggestion".
 5.  **Visualize Nutrients**: You can visit the "Nutrient Chart" page at any time to see a visualization of your current soil data or to adjust the values, which will then be reflected on the other pages.
 
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/4429b131-06e4-4476-803c-563332a6f30b" />
+<img width="1062" height="483" alt="Screenshot 2025-10-13 090956" src="https://github.com/user-attachments/assets/0d931632-b975-4b47-9e1b-bba46d63e738" />
+<img width="1039" height="564" alt="Screenshot 2025-10-13 091100" src="https://github.com/user-attachments/assets/da70efa2-e599-4136-ac63-e39ce9f4cb1f" />
+
+
